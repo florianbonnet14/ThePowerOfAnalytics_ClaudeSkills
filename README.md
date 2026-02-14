@@ -15,4 +15,3 @@ Here are all the available skills:
   | **analysis-results-collector** | Transforms completed analysis into structured, communication-ready documentation. |
   | **executive-summary-writer** | Transforms findings into clear executive summaries using the MAIN framework. |
   | **presentation-builder** | Converts analysis documents into structured presentation slide plans. |
-  |-------|-------------| 
