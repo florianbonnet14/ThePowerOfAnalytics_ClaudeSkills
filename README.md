@@ -15,3 +15,5 @@ Here are all the available skills:
   | **analysis-results-collector** | Transforms data collected into structured, communication-ready documentation while challenging findings and pushing for clarity of arguments. |
   | **executive-summary-writer** | Transforms findings into clear executive summaries using the MAIN framework. |
   | **presentation-builder** | Converts analysis documents into structured presentation slide plans. |
+
+Each skill can be used independently but you can also call the analytics-orchestrator skill to help you figure out what you need.
