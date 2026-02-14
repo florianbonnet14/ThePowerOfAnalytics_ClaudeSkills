@@ -12,6 +12,6 @@ Here are all the available skills:
   | **cohort-analysis-specialist** | Tracks customer behavior over time by grouping customers based on shared characteristics. |
   | **segmentation-expert** | Identifies and analyzes customer segments to uncover hidden patterns. |
   | **influential-factors-detective** | Identifies qualitative factors influencing KPIs that can't be measured as numbers. |
-  | **analysis-results-collector** | Transforms completed analysis into structured, communication-ready documentation. |
+  | **analysis-results-collector** | Transforms data collected into structured, communication-ready documentation while challenging findings and pushing for clarity of arguments. |
   | **executive-summary-writer** | Transforms findings into clear executive summaries using the MAIN framework. |
   | **presentation-builder** | Converts analysis documents into structured presentation slide plans. |
