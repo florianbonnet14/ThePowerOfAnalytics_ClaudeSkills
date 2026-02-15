@@ -1,6 +1,6 @@
 The KPI Tree Architect is here to help you define the drivers behind your North Star Metric Performance.
 It is powered by the content of my book The Power of Analytics (see Chapter 2) and years of experience in that exercise.
-Note that there are may ways to breakdwon a North Star metric into drivers so I created two modes:
+Note that there are may ways to breakdown a North Star metric into drivers so I created two modes:
 * Full automation - the Architect define the entire KPI tree in oen go afer asking you questions
 * Step-by-Step - Each layer and metric is defined through discussions
 
@@ -49,9 +49,7 @@ You will obtain a markdown file that contains all the elments printed in the Ter
 
 | | |
 |:-------------------------:|:-------------------------:|
-| <img width="363" height="235" alt="KPI Tree file 1" src="https://github.com/user-attachments/assets/257d1c39-8511-4406-8968-94b0b4aef3b2" />
-| <img width="363" height="232" alt="KPI Tree file 2" src="https://github.com/user-attachments/assets/76f113ab-4d44-4b19-9f60-3810d5d6cf47" />
-|
+| <img width="363" height="235" alt="KPI Tree file 1" src="https://github.com/user-attachments/assets/257d1c39-8511-4406-8968-94b0b4aef3b2" />| <img width="363" height="232" alt="KPI Tree file 2" src="https://github.com/user-attachments/assets/76f113ab-4d44-4b19-9f60-3810d5d6cf47" />|
 
 # Step-by-Step
 
