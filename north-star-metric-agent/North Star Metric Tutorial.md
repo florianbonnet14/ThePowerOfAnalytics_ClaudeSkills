@@ -56,12 +56,8 @@ What it contains is:
 | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|
 |<img width="364" height="248" alt="NS File 1" src="https://github.com/user-attachments/assets/5958ce18-7ada-4cf3-a1a2-dd24d00b0370" />
- | <img width="362" height="262" alt="NS File 2" src="https://github.com/user-attachments/assets/6a4fee26-5c57-425b-8139-d14da880667b" />
-| <img width="362" height="260" alt="NS File 3" src="https://github.com/user-attachments/assets/8aa111fe-0cf0-4680-b3a4-29c6124efe12" />
-|
-| <img width="363" height="236" alt="NS File 5" src="https://github.com/user-attachments/assets/0b860fa2-ce93-47bf-bfd1-e890426fce89" />
-| <img width="362" height="234" alt="NS File 4" src="https://github.com/user-attachments/assets/21daa086-895d-4703-8d53-e555498d2afa" />
-| |
+|<img width="362" height="262" alt="NS File 2" src="https://github.com/user-attachments/assets/6a4fee26-5c57-425b-8139-d14da880667b" />
+|<img width="362" height="260" alt="NS File 3" src="https://github.com/user-attachments/assets/8aa111fe-0cf0-4680-b3a4-29c6124efe12" />|| <img width="363" height="236" alt="NS File 5" src="https://github.com/user-attachments/assets/0b860fa2-ce93-47bf-bfd1-e890426fce89" />|<img width="362" height="234" alt="NS File 4" src="https://github.com/user-attachments/assets/21daa086-895d-4703-8d53-e555498d2afa" />|test|
 
 # Iterating
 North Start Metrics can evolve over time (See Chapter 2 of my book).
