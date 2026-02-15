@@ -9,7 +9,7 @@ In this tutorial, we play the role of the PM in charge of the Onboarding team at
 To launch the skill use the /north-star-metric-agent command in Claude Code. 
 The agent will start asking you questions about your company and/or team in order to guide in finding the right North Star Metric.
 
-<img width="764" height="542" alt="NS 1" src="https://github.com/user-attachments/assets/e0a1bc8f-57d8-415e-ae51-034cc13021f5" />
+<img width="382" height="271" alt="NS 1" src="https://github.com/user-attachments/assets/e0a1bc8f-57d8-415e-ae51-034cc13021f5" />
 
 # Converging on a North Star Metric
 
