@@ -55,4 +55,39 @@ You will obtain a markdown file that contains all the elments printed in the Ter
 
 # Step-by-Step
 
+In the step by step mode, the Architect will first help you define the first layer of KPIs behind the North Start Metric.
+After that, it is build-your-own-adventure: you can go deep into one KPI and build 2, 3, 4 layers for it; or build the 2nd layer for all 1st layer's KPIs before going deeper. You are in charge. 
+
+In our Buildr example the Architect starts with offering two possible ways to decompose the North Star Metric.
+
+<img width="780" height="560" alt="KPI Tree Manual 1" src="https://github.com/user-attachments/assets/e20e82b6-312e-496c-8746-094cff15ef8c" />
+
+It does not let me choose blindly and asks a refining question to make a recommendation which is the value of this Architect: it is a copilot. After selecting the way to decompose the metric, the Architect makes a first recommendation on the the 1st Layer of the KPI Tree/.
+
+<img width="779" height="560" alt="KPIT Tree Manual 3" src="https://github.com/user-attachments/assets/68debe6a-87f4-4a2b-95ab-564086d1f71c" />
+
+I am happy with that so I ask it to move on and decompose the Build Rate.
+
+<img width="779" height="560" alt="KPIT Tree Manual 3" src="https://github.com/user-attachments/assets/2b7cbb9f-e6d8-457f-9e71-3d4183d8af13" />
+
+Note that agian it asks clarifying question as the Architect is made to challenge you and make sure you cover all the blindspots.
+After that it makes you a proposal which can challenge for how many times as you want before moving forward.
+
+<img width="786" height="661" alt="KPI TRee Manual 4" src="https://github.com/user-attachments/assets/2031b326-7ff6-4a51-ac1e-9e330d509458" />
+
+# Saving and Iterate
+
+You can save your progress at anytime by letting know the Architect and Claude Code you want to stop.
+
+<img width="762" height="525" alt="KPI Tree Manual save" src="https://github.com/user-attachments/assets/420ff99e-113e-4436-8a55-64949d24151e" />
+
+When you are ready to continue, just open Claude code and mention you are ready to start agina on the KPI decomposition.
+The Architect should be involed again and the file you saved should be found. You can also proactively summon them using a command alike `Hey /kpi-tree-architect let's resume the KPI tree work where we let it off @KPI_tree.md`.
+
+# Next steps
+Once you have a KPI Tree you have several options:
+* Use the `influential-factor-detective` to refine the influential factors list of certain KPIs
+* Use the `analysis-planner` to help you throroughly plan the analysis of a metric over/under-performance or customer behavior. This skill will rely heavily on the KPI Tree to suggest you the right data deep dives.
+
+
 
