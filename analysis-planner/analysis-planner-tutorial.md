@@ -57,3 +57,7 @@ Based on that you will be recommended a plan of action along this timeline to en
 
 # Saving
 To save your work just reply yes if prompted by Claude or simply ask to save the plan into a markdown file.
+
+# Next Steps
+Once you have your plan, collect the data and run the analysis listed in the plan.
+From there, use the `analysis-results-collector` to help you build a great, executive-ready, document communicating your insights.
