@@ -42,12 +42,8 @@ In details:
 
 | | |
 |:-------------------------:|:-------------------------:|
-| <img width="879" height="503" alt="AP 2 H2 plan" src="https://github.com/user-attachments/assets/33633d24-5dcc-4e63-a3c7-237d7c3adb76" />
-| <img width="879" height="500" alt="AP 2 H3 plan" src="https://github.com/user-attachments/assets/32d95023-82ed-467a-ae91-75ee8b3c6eff" />
-|
-| <img width="870" height="504" alt="AP 2 H4 plan" src="https://github.com/user-attachments/assets/ca82564b-dd4f-4d76-a761-0bd8832b892c" />
-| <img width="880" height="709" alt="AP 2 H5:6 plan" src="https://github.com/user-attachments/assets/24081f5c-99c7-48d2-968b-c68f3116c9be" />
-|
+| <img width="308" height="175" alt="AP 2 H2 plan" src="https://github.com/user-attachments/assets/33633d24-5dcc-4e63-a3c7-237d7c3adb76" />| <img width="308" height="175" alt="AP 2 H3 plan" src="https://github.com/user-attachments/assets/32d95023-82ed-467a-ae91-75ee8b3c6eff" />|
+| <img width="308" height="175" alt="AP 2 H4 plan" src="https://github.com/user-attachments/assets/ca82564b-dd4f-4d76-a761-0bd8832b892c" />| <img width="308" height="248" alt="AP 2 H5:6 plan" src="https://github.com/user-attachments/assets/24081f5c-99c7-48d2-968b-c68f3116c9be" />|
 
 ## Plan of Action
 At some point you might have been asked for a timeline to get results.
