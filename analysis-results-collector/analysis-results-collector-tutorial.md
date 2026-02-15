@@ -17,7 +17,8 @@ Note that you will do using the Claude multiple-choice/multiple-tab interface.
 | | |
 |:-------------------------:|:-------------------------:|
 |<img width="305" height="140" alt="H1 results" src="https://github.com/user-attachments/assets/d96be621-522c-4723-b8dc-6c08bf414f7a" />
-|<img width="305" height="140" alt="H1 confidence" src="https://github.com/user-attachments/assets/ae25f3f5-1025-4aea-bf41-f9b4ad18f32b" />|
+|<img width="305" height="140" alt="H1 confidence" src="https://github.com/user-attachments/assets/ae25f3f5-1025-4aea-bf41-f9b4ad18f32b" /> |
+
 | <img width="305" height="140" alt="H2 Results" src="https://github.com/user-attachments/assets/e14838a5-18fd-43bf-a5d3-a76ecc43a28d" />
 | <img width="305" height="140" alt="H2 confidence" src="https://github.com/user-attachments/assets/f9447ba2-bf2a-4efd-8c7b-2e07886d7348" />
 |
@@ -51,7 +52,7 @@ It might feel challenging but believe these questions will be ask by your leader
 | <img width="308" height="207" alt="H4 full" src="https://github.com/user-attachments/assets/528d5b2f-0698-404b-b2c3-93e0840ca03f" />
 |
 | <img width="305" height="190" alt="H5 full" src="https://github.com/user-attachments/assets/a59d3fab-acec-46a5-9b5e-824306872a27" />
-| |<img width="305" height="190" alt="H3 full" src="https://github.com/user-attachments/assets/b2a7a19f-23b3-4ae8-8644-d1472036e028" />
+|<img width="305" height="190" alt="H3 full" src="https://github.com/user-attachments/assets/b2a7a19f-23b3-4ae8-8644-d1472036e028" />|
 
 # Finalization
 ## Draft of findings
