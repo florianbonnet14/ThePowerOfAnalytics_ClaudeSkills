@@ -20,6 +20,9 @@ All this will be used for Claude to build a set of hypothesis based on what it u
 
 <img width="874" height="577" alt="AP 1 hyps" src="https://github.com/user-attachments/assets/4253ca39-fdbe-43a2-a3b8-946304b10d8d" />
 
+Note that each hypothesis has a probability, impact potential and actionability.
+We do not show it in this tutorial but you can of course challenge these and also add more hypotheses or remove some if you want to.
+
 ## Step 0 - Confirm the issue
 The first step of the analysis plan recommended in our example is to confirm the issue we have and the drop in our metric.
 As you can see below, it recommend in details which metric to look at, but also how to look ait (what type of chart, breakdwon ...) in order to answer specific questions.
