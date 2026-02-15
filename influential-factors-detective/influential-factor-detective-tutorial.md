@@ -19,15 +19,15 @@ In this example we converge very fast and the Detective is ready to give us a fu
 | | |
 |:-------------------------:|:-------------------------:|
 |<img width="881" height="544" alt="influential 4" src="https://github.com/user-attachments/assets/eccbef4a-c3c8-455c-bd15-db0c09174a6d" />|<img width="884" height="543" alt="influential 5" src="https://github.com/user-attachments/assets/c617b388-0028-4b0e-b748-8c4a151ebbed" />|
-| <img width="877" height="543" alt="influential 6" src="https://github.com/user-attachments/assets/4070f77e-d41d-4347-9e03-5f85614f1cdf" />
-|<img width="882" height="761" alt="influential 7" src="https://github.com/user-attachments/assets/89abeec0-2f90-4e8c-a6fa-44fc13df7415" />
+| <img width="877" height="543" alt="influential 6" src="https://github.com/user-attachments/assets/4070f77e-d41d-4347-9e03-5f85614f1cdf" />|<img width="882" height="761" alt="influential 7" src="https://github.com/user-attachments/assets/89abeec0-2f90-4e8c-a6fa-44fc13df7415" />
  |
 
 Note that you can discuss about nay factor, challenge them or propose new one - this is a collaborative work!
 
 # Saving your work
 
-Like with all the skills, you can save your work in a markdown file.  
+Like with all the skills, you can save your work in a markdown file by asking Claude to do so.
+The file will contain the elements printed in the Terminal.
 
 <img width="1041" height="778" alt="influential file" src="https://github.com/user-attachments/assets/9a648ada-5336-406b-823e-ddedfb602246" />
 
