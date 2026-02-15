@@ -47,10 +47,7 @@ Once you are donw Claude will give you a first draft about your findings and ask
 
 | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|
-| <img width="=308" height="231" alt="Draft H1-2" src="https://github.com/user-attachments/assets/c1f095a6-1405-4b0b-a73b-11bd37ce67c0" />
-| <img width="308" height="265" alt="Draft H3-4" src="https://github.com/user-attachments/assets/4b85d141-8d5b-4d91-bfaf-083030b777b4" />
-| <img width="308" height="203" alt="Draft H5" src="https://github.com/user-attachments/assets/3aeb3380-0f15-4423-9062-93a665ea9e6d" />
-|
+| <img width="=308" height="231" alt="Draft H1-2" src="https://github.com/user-attachments/assets/c1f095a6-1405-4b0b-a73b-11bd37ce67c0" />| <img width="308" height="265" alt="Draft H3-4" src="https://github.com/user-attachments/assets/4b85d141-8d5b-4d91-bfaf-083030b777b4" />| <img width="308" height="203" alt="Draft H5" src="https://github.com/user-attachments/assets/3aeb3380-0f15-4423-9062-93a665ea9e6d" />|
 
 ## Recommendations
 Claude might ask you for more questions to finalize the next steps section of the analysis. Again it might challenge you until you gave satisfactory answers!
